@@ -371,7 +371,7 @@ header {
 
 .customers-link:hover,
 .customers-link:focus {
-  border: 1px solid var(--primary-brand);
+  border-color: var(--primary-brand);
   color: var(--primary-brand);
 }
 
